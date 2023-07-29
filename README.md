@@ -1,1 +1,2 @@
-To hands on this project visit https://soorajain.github.io/react-toggle/
+To check out the project, just visit https://soorajain.github.io/react-toggle/
+
